@@ -1,6 +1,7 @@
 body  {
     margin: 0;
     padding: 10px;
+    /*background-color: #FAFAFA;*/
 }
 .logo {
     background-color: #bdbdbd;
@@ -16,4 +17,16 @@ body  {
 p {
     display: inline-block;
     margin: 10px;
+}
+
+#logoOne {
+    background-color: #F44336;
+}
+
+#logoTwo {
+    background-color: #F5F5F5;
+}
+
+#logoThree {
+    background-color: #2196F3;
 }
